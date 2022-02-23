@@ -1,6 +1,6 @@
 ---
 title: "SDS 237 - Field Journal"
-author: "YOUR NAME HERE"
+author: "Jeniah F."
 date: "Last updated on `r Sys.Date()`"
 output: pdf_document
 ---
